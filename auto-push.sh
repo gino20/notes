@@ -4,5 +4,6 @@
 who=`git config user.name`
 git add --all
 git commit -m "update: auto push by ${who}"
+git pull -r origin master
 git push origin master
 echo "Finished Push"
