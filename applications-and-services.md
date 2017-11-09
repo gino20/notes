@@ -1,8 +1,8 @@
-### browser
+## browser
 
 - chrome
 
-### markdown editor
+## markdown editor
 
   requests:
 
@@ -19,19 +19,19 @@
   * no prettier font
   * integrate github, but can't create new files
 
-### mind map
+## mind map
 
 - [dynalist](dynalist.io)
 
   * well markdownable
   * tree structure
 
-### quick launch
+## quick launch
 
 - alfred
 - [cerebro](cerebroapp.com) (cross-platform)
 
-### software management
+## software management
 
 - homebrew caskroom (macOS)
 - chocolatey (Windows)
