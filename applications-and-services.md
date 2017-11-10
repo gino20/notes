@@ -35,3 +35,7 @@
 
 - homebrew caskroom (macOS)
 - chocolatey (Windows)
+
+## team communication
+
+- slack
