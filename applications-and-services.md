@@ -39,3 +39,14 @@
 ## team communication
 
 - slack
+
+## screenshot
+
+- ~~snip~~
+
+  * 不支持滚动截屏
+  * 有分屏的情况下没法截取主屏的内容
+
+- jietu
+
+  * 支持滚动截屏
