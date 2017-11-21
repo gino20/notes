@@ -16,7 +16,7 @@
 
 - [dillinger](dillinger.io)
 
-  * no prettier font
+  * no prettier font, no custom style setting
   * integrate github, but can't create new files
 
 ## mind map
