@@ -23,6 +23,7 @@
 
 - [dynalist](dynalist.io)
 
+  * convenient integrate document management
   * well markdownable
   * tree structure
 
@@ -50,3 +51,12 @@
 - jietu
 
   * 支持滚动截屏
+
+## js playground
+
+ref: https://codysaylor.com/notes/comparing-codepen-jsfiddle-cssdeck-liveweave-jsbin-dabblet/
+
+- [jsfiddle](http://jsfiddle.net/)
+- [jsbin](http://jsbin.com/)
+- [codepen](http://codepen.io/)
+- [cssdeck](http://cssdeck.com/)
